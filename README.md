@@ -31,3 +31,31 @@ and mlflow-based observability.
 ```bash
 git clone https://github.com/yourname/market-sentiment-analyzer.git
 cd market-sentiment-analyzer
+
+2. Install Dependencies
+pip install -r requirements.txt
+
+
+requirements.txt
+
+langchain
+google-cloud-aiplatform
+mlflow
+
+3. Configure Gemini
+
+Enable Vertex AI API in GCP.
+
+Set your project and credentials:
+
+export GOOGLE_CLOUD_PROJECT="your-project-id"
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/service_account.json"
+
+4. Configure mlflow
+
+Run mlflow server locally:
+
+mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./mlruns
+
+5. Run the Chain
+python sentiment_chain.py
