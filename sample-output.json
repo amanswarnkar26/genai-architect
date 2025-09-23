@@ -1,0 +1,12 @@
+{
+  "company_name": "Google LLC",
+  "stock_code": "GOOGL",
+  "newsdesc": "Recent articles highlight Google's AI advancements, antitrust case updates, and cloud revenue growth.",
+  "sentiment": "Positive",
+  "people_names": ["Sundar Pichai", "Lina Khan"],
+  "places_names": ["United States", "European Union"],
+  "other_companies_referred": ["Microsoft", "OpenAI", "Amazon"],
+  "related_industries": ["AI", "Cloud Computing", "Advertising"],
+  "market_implications": "Positive sentiment due to strong cloud growth, though regulatory risks persist.",
+  "confidence_score": 0.87
+}
