@@ -1,0 +1,7 @@
+google-cloud-aiplatform
+pinecone-client
+langchain
+langchain-pinecone
+langchain-google-vertexai
+langgraph
+pydantic
