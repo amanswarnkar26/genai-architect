@@ -1,0 +1,37 @@
+/home/zadmin/genai/lib/python3.11/site-packages/tqdm/auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm
+
+=== Profile: I’ve completed the ‘Python Programming for Data Science’ course and enjoy data visualization.
+   C016 — Python Programming for Data Science (score 0.766)
+   C017 — R Programming and Statistical Analysis (score 0.570)
+   C014 — Data Visualization with Tableau (score 0.489)
+   C001 — Foundations of Machine Learning (score 0.436)
+   C011 — Big Data Analytics with Spark (score 0.411)
+
+=== Profile: I know Azure basics and want to manage containers and build CI/CD pipelines.
+   C007 — Cloud Computing with Azure (score 0.621)
+   C008 — DevOps Practices and CI/CD (score 0.573)
+   C009 — Containerization with Docker and Kubernetes (score 0.556)
+   C025 — MLOps: Productionizing Machine Learning (score 0.414)
+   C006 — Data Engineering on AWS (score 0.391)
+
+=== Profile: My background is in ML fundamentals; I’d like to specialize in neural networks and production workflows.
+   C025 — MLOps: Productionizing Machine Learning (score 0.562)
+   C002 — Deep Learning with TensorFlow and Keras (score 0.478)
+   C001 — Foundations of Machine Learning (score 0.414)
+   C005 — Reinforcement Learning Basics (score 0.360)
+   C004 — Computer Vision and Image Processing (score 0.340)
+
+=== Profile: I want to learn to build and deploy microservices with Kubernetes—what courses fit best?
+   C009 — Containerization with Docker and Kubernetes (score 0.715)
+   C010 — APIs and Microservices Architecture (score 0.535)
+   C007 — Cloud Computing with Azure (score 0.476)
+   C025 — MLOps: Productionizing Machine Learning (score 0.429)
+   C011 — Big Data Analytics with Spark (score 0.370)
+
+=== Profile: I’m interested in blockchain and smart contracts but have no prior experience.
+   C023 — Blockchain Technology and Smart Contracts (score 0.645)
+   C010 — APIs and Microservices Architecture (score 0.323)
+   C022 — Internet of Things (IoT) Development (score 0.280)
+   C013 — NoSQL Databases and MongoDB (score 0.270)
+   C020 — User Experience (UX) Design Principles (score 0.258)
